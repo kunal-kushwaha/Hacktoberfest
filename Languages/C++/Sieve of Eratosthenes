@@ -3,10 +3,10 @@ using namespace std;
 
 int main()
  {
-   long long int t,n;
-   cin>>t;
+   long long int o,n;
+   cin>>o;
    
-   for(int i=1;i<=t;i++)
+   for(int i=1;i<=o;i++)
    {
      cin>>n;
   
